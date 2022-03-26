@@ -1,5 +1,0 @@
-a=input('Digite algo:')
-print(type(a))
-print ('É um numero?',a.isnumeric())
-print('É uma letra ?',a.isalpha())
-print('é umm?',a.isalnum())
